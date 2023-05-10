@@ -5,9 +5,13 @@ Tool For Make A Unique Subdomain List For Dns Brute Force
 Usage: sublistmaker [OPTIONS]
 
 Options:
+
   -l    wordlist path
+  
   -o    output path
+  
   -s    save the result in $HOME/database/sublist.txt
+  
   
   ```
   subfinder -all -dL ListOfDomain.txt >> Domains.txt
